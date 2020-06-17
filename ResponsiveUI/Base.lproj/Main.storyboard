@@ -34,7 +34,7 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="pQ8-oo-1VN" secondAttribute="trailing" constant="75" id="3vD-B7-zAD"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="pQ8-oo-1VN" secondAttribute="bottom" constant="100" id="Frc-P3-R6h"/>
@@ -48,6 +48,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <variation key="heightClass=compact">
+                            <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <mask key="constraints">
                                 <exclude reference="3vD-B7-zAD"/>
                             </mask>
